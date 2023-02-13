@@ -1,0 +1,5 @@
+name: yamdb_main_workflow
+
+on:
+  push:
+    branches: [ master ]
