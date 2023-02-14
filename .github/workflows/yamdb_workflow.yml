@@ -1,4 +1,4 @@
-name: yamdb_main_workflow
+name: yamdb_workflow.yml
 
 on:
   push:
