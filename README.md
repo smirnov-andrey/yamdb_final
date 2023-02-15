@@ -32,17 +32,17 @@ python-dotenv==0.21.1
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```commandline
-git clone https://github.com/smirnov-andrey/infra_sp2
+git clone https://github.com/smirnov-andrey/yamdb_final
 ```
 
 ```commandline
-cd infra_sp2/infra
+cd yamdb_final/infra
 ```
 
 Скопировать docker образ приложения:
 
 ```commandline
-docker pull aesmirnov/yp_sprint15:review.1
+docker pull aesmirnov/yamdb_final:latest
 ```
 
 Разверните приложение:
